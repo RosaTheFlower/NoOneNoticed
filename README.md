@@ -15,6 +15,13 @@ Press **ESC** to stop the session and save the report, or **SHIFT + ESC** to sto
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (for building/running from source)
 
+## Download
+
+- **[NoOneNoticed.exe](https://github.com/RosaTheFlower/NoOneNoticed/releases/download/v1.0.0/NoOneNoticed.exe)** (164 KB) — requires the [.NET Runtime](https://dotnet.microsoft.com/download) to be installed
+- **[NoOneNoticedPortable.exe](https://github.com/RosaTheFlower/NoOneNoticed/releases/download/v1.0.0/NoOneNoticedPortable.exe)** (64.4 MB) — standalone, no installation required
+
+See all releases [here](https://github.com/RosaTheFlower/NoOneNoticed/releases/latest).
+
 ## Running
 
 ```bash

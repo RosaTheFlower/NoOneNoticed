@@ -15,6 +15,13 @@ Pressione **ESC** para encerrar a sessão e salvar o relatório, ou **SHIFT + ES
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (para compilar/rodar a partir do código-fonte)
 
+## Download
+
+- **[NoOneNoticed.exe](https://github.com/RosaTheFlower/NoOneNoticed/releases/download/v1.0.0/NoOneNoticed.exe)** (164 KB) — requer o [.NET Runtime](https://dotnet.microsoft.com/download) instalado
+- **[NoOneNoticedPortable.exe](https://github.com/RosaTheFlower/NoOneNoticed/releases/download/v1.0.0/NoOneNoticedPortable.exe)** (64.4 MB) — standalone, não requer instalação
+
+Veja todas as releases [aqui](https://github.com/RosaTheFlower/NoOneNoticed/releases/latest).
+
 ## Executando
 
 ```bash
