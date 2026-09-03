@@ -1,4 +1,4 @@
-# NoOneNoticed | 🇧🇷
+# NoOneNoticed | 🇧🇷🔛 🔝
 
 Um monitor de sistema multiplataforma para terminal, escrito em C# (.NET).
 Examina em tempo real todo o sistema de arquivos e processos em execução, registrando eventos importantes e alertando sobre uso excessivo de CPU/RAM.
